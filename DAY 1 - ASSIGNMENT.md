@@ -18,4 +18,4 @@
 - Previous blocks hash code
 - Mining key
 
-5) The wide range of record and less probability  of rendeirng data allows verifiabilty .
+5) we can track the activity at any point of time which allows verifiabilty .
