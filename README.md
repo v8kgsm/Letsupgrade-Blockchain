@@ -1,4 +1,4 @@
-# Letsupgrade-Blockchain
+# Blockchain
 
 Test deployment of the smart contract can be found @ 0x3c9fa3cf1085c9724134041f5df58c7492c196cd in
 
